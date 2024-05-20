@@ -1,0 +1,30 @@
+[
+    {
+        "id": "e380d1d0-1fa6-460b-9a90-1a5c6b02414c",
+        "isReadOnly": false,
+        "isOnDedicatedCapacity": true,
+        "capacityId": "0f084df7-c13d-451b-af5f-ed0c466403b2",
+        "defaultDatasetStorageFormat": "Small",
+        "name": "Sample Group 1",
+        "description": "Sample group",
+        "type": "Workspace",
+        "state": "Active",
+        "hasWorkspaceLevelSettings": false,
+        "users": [
+            {
+                "emailAddress": "john@contoso.com",
+                "groupUserAccessRight": "Admin"
+            }
+        ]
+    },
+    {
+        "id": "183dcf10-47b8-48c4-84aa-f0bf9d5f8fcf",
+        "isReadOnly": false,
+        "isOnDedicatedCapacity": false,
+        "name": "Sample Group 2",
+        "description": "Deleted sample group",
+        "type": "Workspace",
+        "state": "Deleted",
+        "users": []
+    }
+]
